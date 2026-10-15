@@ -8,3 +8,4 @@ venv/
 htmlcov/
 .DS_Store
 state/
+examples/_state_demo/
